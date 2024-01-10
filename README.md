@@ -1,2 +1,3 @@
 # docker-www
-docker-compose web
+
+docker-compose de la prueba de web en docker.
